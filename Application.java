@@ -18,17 +18,4 @@ class Main {
     int result = obj.addNumbers(num1, num2);
     System.out.println("Sum is: " + result);
   }
-  #feature202 changes by Abhi on Oct 2023
-  ({
-  property(parameters) {},
-  *generator(parameters) {},
-  async property(parameters) {},
-  async *generator(parameters) {},
-
-  // with computed keys
-  [expression](parameters) {},
-  *[expression](parameters) {},
-  async [expression](parameters) {},
-  async *[expression](parameters) {},
-})
 }
